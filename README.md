@@ -12,6 +12,7 @@
 + gulp-gulify： js压缩
 + gulp-minify-css：css压缩
 + gulp-imagemin： 图片压缩
++ gulp-spritemith :雪碧图
 + bower： 依赖管理
 + gulpfile.js
 
